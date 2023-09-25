@@ -1,4 +1,11 @@
-### Hi there 👋
+# RainBoltz
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-rainboltz.vercel.app/api?username=rainboltz&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+</picture>
 
 <!--
 
